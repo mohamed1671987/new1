@@ -481,7 +481,7 @@ text-align: center;
 @media (max-width: 767px) {
   .contact .info .label,
   .contact .info .link {
-  font-size: 20px;
+  font-size: 15px;
   }
 }
 /* End Contact */
